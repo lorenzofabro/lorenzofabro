@@ -11,7 +11,7 @@
   <a href="https://lorenzofabro.com/" target="_blank">💻 My Website (🚧 under construction)</a>
  </li>
  <li>
-  <a href="https://utn.lorenzofabro.com/" target="_blank">🎓 University Projects</a>
+  <a href="https://utn.lorenzofabro.com/" target="_blank">🎓 University Projects</a> - <a href="https://github.com/lorenzofabro/utn-container" target="_blank">📦 Repository</a>
  </li>
 </ul>
 
