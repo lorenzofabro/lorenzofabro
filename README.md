@@ -1,6 +1,11 @@
 <h1 align="center">Hello there 👋</h1>
 
-[![Twitter: lorenzofabro]🐦 (https://img.shields.io/twitter/follow/lorenzofabro?style=social)](https://twitter.com/lorenzofabro)
+ <a class="twitter-follow-button" 
+    href="http://www.wut.com" data-size="large" 
+    data-show-screen-name="true" 
+    data-show-count="true">Follow</a>
+
+
 [![GitHub lorenzofabro]🐈 (https://img.shields.io/github/followers/lorenzofabro?label=follow&style=social)](https://github.com/lorenzofabro)
 
 <!--
@@ -17,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
