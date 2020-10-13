@@ -1,12 +1,19 @@
 <h1 align="center">Hello there 👋</h1>
 
- <a class="twitter-follow-button" 
-    href="http://www.wut.com" data-size="large" 
-    data-show-screen-name="true" 
-    data-show-count="true">Follow</a>
-
-
-[![GitHub lorenzofabro]🐈 (https://img.shields.io/github/followers/lorenzofabro?label=follow&style=social)](https://github.com/lorenzofabro)
+<ul>
+ <li>
+ <a href="https://twitter.com/lorenzofabro" target="_blank">🐤 Twitter</a>
+ </li>
+ <li>
+  <a href="https://github.com/lorenzofabro" target="_blank">🐈 GitHub</a>
+ </li>
+ <li>
+  <a href="https://lorenzofabro.com/" target="_blank">💻 My Website (🚧 under construction)</a>
+ </li>
+ <li>
+  <a href="https://utn.lorenzofabro.com/" target="_blank">🎓 University Projects</a>
+ </li>
+</ul>
 
 <!--
 **lorenzofabro/lorenzofabro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,5 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
