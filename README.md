@@ -1,6 +1,8 @@
 <h1 align="center">Hello there 👋</h1>
 
-🐦 <a href="https://twitter.com/lorenzofabro?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @lorenzofabro</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+🐦 <a class="twitter-follow-button"
+  href="https://twitter.com/lorenzofabro">
+Follow @TwitterDev</a>
 🐈 <a class="github-button" href="https://github.com/lorenzofabro" data-color-scheme="no-preference: dark; light: dark; dark: dark;" aria-label="Follow @lorenzofabro on GitHub">Follow @lorenzofabro</a>
 
 <!--
