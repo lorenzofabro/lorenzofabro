@@ -1,9 +1,7 @@
 <h1 align="center">Hello there 👋</h1>
 
-🐦 <a class="twitter-follow-button"
-  href="https://twitter.com/lorenzofabro">
-Follow @TwitterDev</a>
-🐈 <a class="github-button" href="https://github.com/lorenzofabro" data-color-scheme="no-preference: dark; light: dark; dark: dark;" aria-label="Follow @lorenzofabro on GitHub">Follow @lorenzofabro</a>
+[![Twitter: lorenzofabro]🐦 (https://img.shields.io/twitter/follow/lorenzofabro?style=social)](https://twitter.com/lorenzofabro)
+[![GitHub lorenzofabro]🐈 (https://img.shields.io/github/followers/lorenzofabro?label=follow&style=social)](https://github.com/lorenzofabro)
 
 <!--
 **lorenzofabro/lorenzofabro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
